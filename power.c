@@ -26,7 +26,7 @@ double Pow(double x, int y)
 	}
 	if(isNeg)
 	{
-		return (dobule)1/sumPow;
+		return (double)1/sumPow;
 	}
 	return sumPow;
 }
